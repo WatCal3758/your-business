@@ -1,10 +1,10 @@
 fieldset{
-    border: 5px skyblue;
+    border: 5px solid skyblue;
     padding: 10px;
     color: orange;
 }
 section{
-    border: 10px goldenrod;
+    border: 10px solid goldenrod;
     padding: 5px;
     color: paleturquoise;
 }
